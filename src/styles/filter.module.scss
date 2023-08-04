@@ -1,0 +1,32 @@
+.filterMap {
+    max-height: 50%;
+    max-width: 15%
+    
+}
+
+.MapImageSize {
+    width: 25%;
+    background-color: bisque;
+    cursor: pointer;
+}
+
+.filter {
+    display: flex;
+    flex-direction: row;
+}
+
+.agentIcon {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: DodgerBlue;
+    align-items: center;
+    max-width: 75%;
+    max-height: 30%;
+    img {
+        width: 12%;
+        background-color: bisque;
+        cursor: pointer;
+    }
+}
+
